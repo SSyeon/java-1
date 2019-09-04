@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>t_2302</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>txt</name>
+			<type>2</type>
+			<location>E:/_test/프로그래밍(Java)_수행평가2/원본 - 채점/java_수행평가2_2302 강혜정/Project/txt</location>
+		</link>
+		<link>
+			<name>src/Food.java</name>
+			<type>1</type>
+			<location>E:/_test/프로그래밍(Java)_수행평가2/원본 - 채점/java_수행평가2_2302 강혜정/Project/src/Food.java</location>
+		</link>
+		<link>
+			<name>src/Refri_Choice.java</name>
+			<type>1</type>
+			<location>E:/_test/프로그래밍(Java)_수행평가2/원본 - 채점/java_수행평가2_2302 강혜정/Project/src/Refri_Choice.java</location>
+		</link>
+		<link>
+			<name>src/Refri_Menu.java</name>
+			<type>1</type>
+			<location>E:/_test/프로그래밍(Java)_수행평가2/원본 - 채점/java_수행평가2_2302 강혜정/Project/src/Refri_Menu.java</location>
+		</link>
+		<link>
+			<name>src/Refri_Test.java</name>
+			<type>1</type>
+			<location>E:/_test/프로그래밍(Java)_수행평가2/원본 - 채점/java_수행평가2_2302 강혜정/Project/src/Refri_Test.java</location>
+		</link>
+		<link>
+			<name>src/addFre.java</name>
+			<type>1</type>
+			<location>E:/_test/프로그래밍(Java)_수행평가2/원본 - 채점/java_수행평가2_2302 강혜정/Project/src/addFre.java</location>
+		</link>
+		<link>
+			<name>src/addRef.java</name>
+			<type>1</type>
+			<location>E:/_test/프로그래밍(Java)_수행평가2/원본 - 채점/java_수행평가2_2302 강혜정/Project/src/addRef.java</location>
+		</link>
+		<link>
+			<name>src/image</name>
+			<type>2</type>
+			<location>E:/_test/프로그래밍(Java)_수행평가2/원본 - 채점/java_수행평가2_2302 강혜정/Project/image</location>
+		</link>
+		<link>
+			<name>src/showFre.java</name>
+			<type>1</type>
+			<location>E:/_test/프로그래밍(Java)_수행평가2/원본 - 채점/java_수행평가2_2302 강혜정/Project/src/showFre.java</location>
+		</link>
+		<link>
+			<name>src/showRef.java</name>
+			<type>1</type>
+			<location>E:/_test/프로그래밍(Java)_수행평가2/원본 - 채점/java_수행평가2_2302 강혜정/Project/src/showRef.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
